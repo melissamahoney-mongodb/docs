@@ -12,10 +12,10 @@ Install MongoDB Enterprise with Docker
    The recommended solutions for using containers with MongoDB are:
 
    - For development and testing use the
-     `MongoDB Community Docker container <https://hub.docker.com/_/mongo/>`__.
+     `MongoDB Community Kubernetes Operator <https://hub.docker.com/_/mongo/>`__.
    
-   - For MongoDB Enterprise production installations use Kubernetes through the
-     :opsmgr:`MongoDB Ops Manager </tutorial/install-k8s-operator>`.
+   - For MongoDB Enterprise production installations use the
+     :opsmgr:`MongoDB Enterprise Kubernetes Operator </tutorial/install-k8s-operator>`.
 
 .. note::
 
